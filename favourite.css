@@ -1,4 +1,15 @@
 .block {
-    width: 50%;
-    height: 50%;
+    width: 48%;
+    height: 48%;
+    float: left;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.v10szoveg {
+    text-align: right;
+     text-align: justify;
 }
