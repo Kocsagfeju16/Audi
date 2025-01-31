@@ -12,4 +12,17 @@ body {
 .v10szoveg {
     text-align: right;
      text-align: justify;
+     font-size: 200%;
+}
+
+h2 {
+    font-size: 300%;
+}
+
+.r8body {
+    float: left;
+}
+
+h1 {
+    font-size: 350%;
 }
