@@ -59,3 +59,27 @@ th {
     font-weight: bolder;
     font-style: italic;
 }
+
+.imga5a {
+    width: 70%;
+    align-items: center;
+    padding-left: 128px;
+}
+
+.imga5l {
+    width: 80%;
+    align-items: center;
+    padding-left: 95px;
+}
+
+.imgs5a {
+    width: 80%;
+    align-items: center;
+    padding-left: 90px;
+}
+
+.imgs5l {
+    width: 75%;
+    align-items: center;
+    padding-left: 115px;
+}
