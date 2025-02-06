@@ -41,6 +41,7 @@ body {
     font-size: 240%;
 }
 
-.tablea5 {
+.tablea5, td, tr {
+    border: 2px solid ;
     
 }
