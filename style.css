@@ -90,10 +90,20 @@ th {
     padding-left: 128px;
 }
 
+.imga5a:hover{
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imga5l {
     width: 80%;
     align-items: center;
     padding-left: 95px;
+}
+
+.imga5l:hover{
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imgs5a {
@@ -102,10 +112,20 @@ th {
     padding-left: 90px;
 }
 
+.imgs5a:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imgs5l {
     width: 75%;
     align-items: center;
     padding-left: 115px;
+}
+
+.imgs5l:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imga8c {
@@ -114,10 +134,20 @@ th {
     padding-left: 100px;
 }
 
+.imga8c:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imga8l {
     width: 82%;
     align-items: center;
     padding-left: 60px;
+}
+
+.imga8l:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imgs8c {
@@ -126,10 +156,20 @@ th {
     padding-left: 70px;
 }
 
+.imgs8c:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imgs8l {
     width: 86%;
     align-items: center;
     padding-left: 60px;
+}
+
+.imgs8l:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imgq3 {
@@ -138,10 +178,20 @@ th {
     padding-left: 40px;
 }
 
+.imgq3:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imgq3sport {
     width: 90%;
     align-items: center;
     padding-left: 40px;
+}
+
+.imgq3sport:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imgsq3 {
@@ -149,9 +199,19 @@ th {
     align-items: center;
 }
 
+.imgsq3:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imgrsq3 {
     width: 110%;
     align-items: center
+}
+
+.imgrsq3:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imgq7 {
@@ -159,9 +219,19 @@ th {
     align-items: center;
 }
 
+.imgq7:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imgq7s {
     width: 100%;
     align-items: center;
+}
+
+.imgq7s:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .imgsq7 {
@@ -170,7 +240,17 @@ th {
     padding-left: 60px;
 }
 
+.imgsq7:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .imgrsq7 {
     width: 105%;
     align-items: center;
+}
+
+.imgrsq7:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
