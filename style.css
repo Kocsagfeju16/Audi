@@ -113,5 +113,17 @@ th {
 .imga8l {
     width: 82%;
     align-items: center;
-    padding-left: 50px;
+    padding-left: 60px;
+}
+
+.imgs8c {
+    width: 80%;
+    align-items: center;
+    padding-left: 70px;
+}
+
+.imgs8l {
+    width: 86%;
+    align-items: center;
+    padding-left: 60px;
 }
