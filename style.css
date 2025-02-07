@@ -12,10 +12,20 @@ body {
 .a5 {
     width: 50%;
     float: left;
+    
+}
+.a5:hover{
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .a8 {
     width: 50%;
+}
+
+.a8:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .q3 {
@@ -23,8 +33,18 @@ body {
     float: left;
 }
 
+.q3:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+}
+
 .q7 {
     width: 50%;
+}
+
+.q7:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
 }
 
 .ajanlat {
@@ -82,4 +102,16 @@ th {
     width: 75%;
     align-items: center;
     padding-left: 115px;
+}
+
+.imga8c {
+    width: 78%;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.imga8l {
+    width: 82%;
+    align-items: center;
+    padding-left: 50px;
 }
