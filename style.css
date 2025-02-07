@@ -254,3 +254,10 @@ th {
     transform: scale(1.1);
     transition: ease-in-out 0.5s;
 }
+
+.button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 3%;
+}
