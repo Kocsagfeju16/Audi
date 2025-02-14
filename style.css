@@ -72,11 +72,13 @@ body {
     padding-top: 40px;
     padding-bottom: 40px;
     font-weight: bold;
+    text-align: center;
 }
 
 .tableaall {
     margin: auto;
     font-size: 300%;
+    text-align: center;
 }
 
 th {
